@@ -1,0 +1,35 @@
+
+
+******** Necessities ********
+
+1. First of all create a Database named ADMIN_DB.
+2. Execute the queries in the SQL folder inside the ADMIN_DB database.
+3. Connect the SQL server with the Visual Studio Application.(Follow the course instructors directions if faced with any complications.)
+
+   1. ***REMOVE*** the default connection string from the **App.config** and add the NEW connection string located in the data connections properties.
+
+4. If the Guna.UI2.Winfroms expires use a trial key.
+
+******** Users *********
+
+1. There are 3 Users in this project (Admin, User, Expert)
+2. Admin can get access to the accounts and make certain modifications if needed 
+
+   (Add new users/experts, Delete previous users/experts, Update user's/expert's information).
+
+3. To get access to the home page *All users must have an Account!*
+4. Two default users and experts can be inserted throught the SQL server management.
+5. The Signup process will enable the Application users to create an account and then get access to the Home Page.
+
+******** Admin Credentials *********
+
+1. Username : Admin_1  Password : 12345
+2. Username : Admin_2  Password : 12345
+3. Username : Admin_3  Password : 12345
+
+******** Applications Used in the Project ***********
+
+1. SQL server 2014 management studio.
+2. Visual Studio 2019.
+3. Guna.UI2.Winfroms (Nuget Package Manager).
+
